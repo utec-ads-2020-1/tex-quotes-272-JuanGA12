@@ -11,7 +11,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4854cbc6-f80d-47fe-b755-53448f6fc43e" name="Default Changelist" comment="" />
+    <list default="true" id="4854cbc6-f80d-47fe-b755-53448f6fc43e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/tex_quotes_272_JuanGA12.dir/main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,8 +36,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+            <state relative-caret-position="442">
+              <caret line="26" column="16" lean-forward="true" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -56,6 +59,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>isFirst</find>
+      <find>quote1</find>
     </findStrings>
     <replaceStrings>
       <replace>quote</replace>
@@ -71,9 +75,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="173" />
-    <option name="y" value="55" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="133" />
+    <option name="y" value="23" />
     <option name="width" value="1596" />
     <option name="height" value="970" />
   </component>
@@ -97,6 +101,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -137,15 +142,16 @@
       <option name="presentableId" value="Default" />
       <updated>1586454581891</updated>
       <workItem from="1586454583092" duration="3000" />
-      <workItem from="1586454599609" duration="9268000" />
+      <workItem from="1586454599609" duration="10417000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9271000" />
+    <option name="totallyTimeSpent" value="10420000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="173" y="55" width="1596" height="970" extended-state="1" />
+    <frame x="117" y="44" width="1596" height="970" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25289574" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -192,8 +198,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+        <state relative-caret-position="442">
+          <caret line="26" column="16" lean-forward="true" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
